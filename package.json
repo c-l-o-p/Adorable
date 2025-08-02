@@ -15,7 +15,7 @@
     "@anthropic-ai/sdk": "^0.40.1",
     "@hookform/resolvers": "^5.0.1",
     "@isomorphic-git/lightning-fs": "^4.6.0",
-    "@mastra/core": "^0.0.0-ai-v5-20250718021026",
+    "@mastra/core": "^0.10.12",
     "@mastra/mcp": "^0.0.0-ai-v5-20250718021026",
     "@mastra/memory": "^0.0.0-ai-v5-20250718021026",
     "@mastra/pg": "^0.0.0-ai-v5-20250718021026",
