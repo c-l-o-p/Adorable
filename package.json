@@ -18,7 +18,7 @@
     "@mastra/core": "^0.0.0-ai-v5-20250718021026",
     "@mastra/mcp": "^0.0.0-ai-v5-20250718021026",
     "@mastra/memory": "^0.0.0-ai-v5-20250718021026",
-    "@mastra/pg": "^0.0.0-ai-v5-20250718021026",
+    "@mastra/pg": "^0.12.2",
     "@modelcontextprotocol/sdk": "^1.10.1",
     "@neondatabase/serverless": "^1.0.0",
     "@radix-ui/react-dialog": "^1.1.13",
